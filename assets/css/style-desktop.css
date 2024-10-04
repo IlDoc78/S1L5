@@ -1,0 +1,162 @@
+/* Your styles here */
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,700;1,700&family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap");
+
+.corpoprincipale {
+  font-family: "Open Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
+  font-variation-settings: "wdth" 100;
+    max-width: 1900px;
+  font-size: 1.2rem;
+  line-height: 1.65;
+  color: #393d41;
+  max-width: 1700px;
+  margin-inline: auto;
+  text-align: center;
+}
+
+.titoli {
+  font-family: "Montserrat", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 700;
+  font-style: normal;
+  color: #53aac2;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  line-height: 0.9;
+}
+
+.h3 {
+  color: white;
+}
+
+.testa {
+  background-color: black;
+}
+
+.primoblocco {
+  background-image: url(../images/banner.jpg);
+  background-position: center;
+  
+
+  min-height: 450px;
+}
+
+h1 {
+  font-size: 40px;
+  padding-bottom: 20px;
+}
+
+.sottotitolo {
+  padding-top: 25px;
+  padding-inline: 15px;
+}
+
+.input {
+  padding-top: 20px;
+}
+
+input {
+    margin-inline: auto;
+  font-family: "Montserrat", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 700;
+  font-style: normal;
+  color: white;
+  background-color: #f04c2f;
+  border-radius: 3px;
+  border-color: #f04c2f;
+  width: 130px;
+  height: 50px;
+  font-size: 16px;
+}
+
+.pcrot {
+  border-radius: 50%;
+  max-width: 350px;
+  box-shadow: 3px 4px 20px;
+  
+}
+
+.ultititle {
+  background-color: #ffe53b;
+  background-image: linear-gradient(
+    213deg,
+    #ffe53b 0%,
+    #ff2525 37%,
+    #cd7011 100%
+  );
+
+  border-radius: 28% 100% 75% 100% / 100% 0% 55% 10%;
+
+  margin-bottom: 50px;
+  margin-top: 50px;
+  box-shadow: 6px 2px 25px;
+}
+
+.lasttitle {
+  color: whitesmoke;
+}
+
+.ceo {
+  font-size: small;
+  padding-bottom: 40px;
+}
+
+.pipo {
+    max-width: 1920px;
+   
+  background-color: #ffdee9;
+  background-image: linear-gradient(0deg, #ffdee9 0%, #b5fffc 100%);
+  border-radius: 28% 100% 75% 100% / 100% 0% 55% 10%;
+  margin-bottom: 30px;
+  box-shadow: 2px 2px 10px #faa0be;
+}
+
+.photo {
+  max-width: 400px;
+  background-color: #ffdee9;
+  background-image: linear-gradient(0deg, #ffdee9 0%, #b5fffc 100%);
+  border-radius: 30% 70% 23% 77% / 74% 30% 70% 26%;
+  margin-bottom: 30px;
+  box-shadow: 2px 2px 10px;
+}
+
+.lavora {
+  background-color: rgba(250, 235, 215, 0.363);
+  border-color: #305880;
+  border-width: 5px;
+  border-radius: 10% 10% 17% 17% / 60% 60% 10% 10%;
+  max-width: 300px;
+  margin-inline: auto;
+  margin-bottom: 40px;
+}
+
+.piedipagina {
+  background-color: #21d4fd;
+  background-image: linear-gradient(19deg, #21d4fd 0%, #b721ff 100%);
+  padding: 30px;
+  height: 200px;
+  color: #ffffff;
+  padding-bottom: 80px;
+  font-weight: 200;
+}
+
+.h3ultimo {
+  font-size: 40px;
+}
+
+.link {
+    color: white;
+}
+
+.log {
+ max-width: 150px;
+ padding-top: 30px;
+ padding-bottom: 30px;
+}
+
+.h3 {
+    font-weight: 700;
+}
